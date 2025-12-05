@@ -49,12 +49,3 @@ __pycache__/
 *.tmp
 *.bak
 *.cache
-
-# Development files
-CHANGELOG.md
-CONTRIBUTING.md
-
-# Conversion/generation scripts
-talkmap.py
-talkmap.ipynb
-markdown_generator/
