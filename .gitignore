@@ -1,0 +1,60 @@
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# Sass
+.sass-cache/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Development files
+CHANGELOG.md
+CONTRIBUTING.md
+
+# Conversion/generation scripts
+talkmap.py
+talkmap.ipynb
+markdown_generator/
