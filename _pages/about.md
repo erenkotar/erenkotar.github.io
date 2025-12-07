@@ -17,22 +17,50 @@ My current research focuses on open-domain named entity recognition (NER) for Tu
 
 <br/>
 
+Recent News 
+======
+---
+**[Coming Soon]** Updates will be posted here as they happen!
+
+<br/>
+<br/>
+
+<!-- Selected Publications
+======
+---
+Publications will be added here as they become available.
+
+<br/> -->
+
 Education 
 ======
 ---
-* **M.S. in Computer Engineering, Boğaziçi University**, *In Progress*
+* **M.Sc. in Computer Engineering, Boğaziçi University**, *Ongoing*
+  - Research at TABILAB (Text Analytics and BioInformatics Laboratory)
 
-* **B.S. in Industrial Engineering, Istanbul Technical University**, *Completed*
-  - Bachelor Thesis: Portfolio Optimization with Reinforcement Learning
-  - [View Thesis](https://www.researchgate.net/publication/374069161_PORTFOLIO_OPTIMIZATION_with_REINFORCEMENT_LEARNING?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
+* **B.Sc. in Industrial Engineering, Istanbul Technical University**, *Completed*
 
 <br/>
 
-Selected Publications
+Research Interests
 ======
 ---
-* ### Portfolio Optimization with Reinforcement Learning
-  **Eren Kotar**
-  *Bachelor's Thesis, Istanbul Technical University* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://www.researchgate.net/publication/374069161_PORTFOLIO_OPTIMIZATION_with_REINFORCEMENT_LEARNING?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)
+* Natural Language Processing
+* Named Entity Recognition
+* Machine Learning
+* Data Science
 
 <br/>
+
+<!-- Awards & Honors
+======
+---
+Awards will be listed here as they are received.
+
+<br/> -->
+
+<!-- Selected Talks
+======
+---
+Talks will be added here as they happen.
+ -->

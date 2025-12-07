@@ -1,51 +1,37 @@
-# Jekyll build artifacts
+# Jekyll build files
 _site/
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
 # Ruby/Bundler
 .bundle/
 vendor/
-Gemfile.lock
-
-# Sass
-.sass-cache/
-
-# Node
-node_modules/
-npm-debug.log
-package-lock.json
-yarn.lock
 
 # macOS
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+# Thumbnails
+._*
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb_checkpoints/
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
 
-# IDEs and Editors
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.project
-.settings/
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.bak
-*.cache
+# Original source files (already copied to proper locations and can be deleted from root)
+# compressed.jpg -> images/profile.png
+# ErenKotar_CV.pdf -> assets/ErenKotar_CV.pdf
