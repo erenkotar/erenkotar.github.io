@@ -29,7 +29,7 @@ Selected Publications
 ======
 ---
 * ### Portfolio Optimization with Reinforcement Learning
-  **Eren Kotar**, İnci Kınalı.
+  Kotar, Eren, Kınalı İnci. (2023).
   *Bachelor's Thesis, Istanbul Technical University, 2023.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://www.researchgate.net/publication/374069161_PORTFOLIO_OPTIMIZATION_with_REINFORCEMENT_LEARNING)
 
 <br/>
