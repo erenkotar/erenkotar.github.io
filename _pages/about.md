@@ -39,8 +39,9 @@ Education
 ---
 * **M.Sc. in Computer Engineering, Boğaziçi University**, *Ongoing*
   - Research at TABILAB (Text Analytics and BioInformatics Laboratory)
+  - Advised by [Asst. Prof. Suzan Üsküdarlı](https://www.cmpe.boun.edu.tr/tr/people/suzan.uskudarli)
 
-* **B.Sc. in Industrial Engineering, Istanbul Technical University**, *Completed*
+* **B.Sc. in Industrial Engineering, Istanbul Technical University**, *Jan 2024*
 
 <br/>
 
