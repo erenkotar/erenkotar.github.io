@@ -25,12 +25,14 @@ Recent News
 <br/>
 <br/>
 
-<!-- Selected Publications
+Selected Publications
 ======
 ---
-Publications will be added here as they become available.
+* ### Portfolio Optimization with Reinforcement Learning
+  **Eren Kotar**.
+  *Bachelor's Thesis, Istanbul Technical University, 2023.* &nbsp; [<i class="fa fa-file-pdf fa-lg" style="color: #000000;"></i>](https://www.researchgate.net/publication/374069161_PORTFOLIO_OPTIMIZATION_with_REINFORCEMENT_LEARNING)
 
-<br/> -->
+<br/>
 
 Education 
 ======
